@@ -2,7 +2,7 @@
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
  <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">forked from anuraghazra/github-readme-stats</a></p>
- <p align="center">Please do not fork this repo, fork from the original author.</p>
+ <p align="center">Please do not fork this repo, fork from the original author. The contents of this fork is modified for my uses and is not intended to take credit for any of the contents.</p>
 </p>
 
 # GitHub Stats Card
